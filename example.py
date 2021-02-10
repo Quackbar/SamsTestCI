@@ -1,6 +1,8 @@
 def add(a, b):
     return a + b
 
+    # ouch chunk
+lsdf;adncA:ihafvsdsdcmcdaifjsajifrshuf
 
 def test_add():
     assert add(2, 3) == 5
